@@ -1,0 +1,14 @@
+<configuration>
+  <baseUri>https://github.com/colloh-mwas/java-updates/latest/</baseUri>
+
+  <files>
+    <file path="ManguHighDP.jar" />
+  </files>
+
+  <launch>
+    <classpath>
+      <path>ManguHighDP.jar</path>
+    </classpath>
+    <mainClass>officeapp.Dashboard</mainClass>
+  </launch>
+</configuration>

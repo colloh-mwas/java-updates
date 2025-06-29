@@ -1,5 +1,5 @@
 <configuration>
-  <baseUri>https://github.com/colloh-mwas/java-updates/latest/</baseUri>
+  <baseUri>https://github.com/colloh-mwas/java-updates/</baseUri>
 
   <files>
     <file path="ManguHighDP.jar" />
